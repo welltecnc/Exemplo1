@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+<head>
+	<title>SITE</title>
+</head>
+
+<body>
+
+<h1>Loja Game city</h1>
 
 
 
+</body>
 </html>
